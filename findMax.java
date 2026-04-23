@@ -1,6 +1,6 @@
 package ArrayPractice;
 
-import java.net.SocketTimeoutException;
+
 
 public class findMax {
     public static void main(String[] args) {
